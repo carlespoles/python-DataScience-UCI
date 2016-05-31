@@ -1,0 +1,691 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	Count
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2000"	"2000"	579
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2001"	"2001"	627
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2002"	"2002"	623
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2003"	"2003"	631
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2004"	"2004"	734
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2005"	"2005"	920
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2006"	"2006"	905
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2007"	"2007"	966
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2008"	"2008"	1064
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2009"	"2009"	1152
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2010"	"2010"	1121
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2011"	"2011"	1079
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"1999"	"1999"	51
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2000"	"2000"	56
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2001"	"2001"	71
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2002"	"2002"	70
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2003"	"2003"	85
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2004"	"2004"	73
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2005"	"2005"	52
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2006"	"2006"	55
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2007"	"2007"	60
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2008"	"2008"	74
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2009"	"2009"	72
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2010"	"2010"	91
+	"Melanoma of the Skin"	"25010"	"Alaska"	"02"	"2011"	"2011"	75
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"1999"	"1999"	914
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2000"	"2000"	889
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2001"	"2001"	1035
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2002"	"2002"	1056
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2003"	"2003"	1153
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2004"	"2004"	953
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2005"	"2005"	874
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2006"	"2006"	989
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2007"	"2007"	981
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2008"	"2008"	987
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2009"	"2009"	1185
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2010"	"2010"	1053
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2011"	"2011"	1059
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2001"	"2001"	382
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2003"	"2003"	329
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2004"	"2004"	399
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2005"	"2005"	388
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2006"	"2006"	447
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2007"	"2007"	447
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2008"	"2008"	447
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2009"	"2009"	474
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2010"	"2010"	475
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2011"	"2011"	557
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"1999"	"1999"	5561
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2000"	"2000"	5588
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2001"	"2001"	6059
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2002"	"2002"	6043
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2003"	"2003"	5958
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2004"	"2004"	6566
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2005"	"2005"	7160
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2006"	"2006"	6780
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2007"	"2007"	7327
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2008"	"2008"	7585
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2009"	"2009"	7483
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2010"	"2010"	7635
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2011"	"2011"	7735
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"1999"	"1999"	799
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2000"	"2000"	856
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2001"	"2001"	839
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2002"	"2002"	902
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2003"	"2003"	792
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2004"	"2004"	878
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2005"	"2005"	988
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2006"	"2006"	1102
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2007"	"2007"	997
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2008"	"2008"	1020
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2009"	"2009"	1125
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2010"	"2010"	1108
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2011"	"2011"	1118
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"1999"	"1999"	761
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2000"	"2000"	851
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2001"	"2001"	860
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2002"	"2002"	775
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2003"	"2003"	834
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2004"	"2004"	853
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2005"	"2005"	1025
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2006"	"2006"	967
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2007"	"2007"	910
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2008"	"2008"	912
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2009"	"2009"	940
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2010"	"2010"	938
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2011"	"2011"	863
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"1999"	"1999"	103
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2000"	"2000"	128
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2001"	"2001"	169
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2002"	"2002"	134
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2003"	"2003"	161
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2004"	"2004"	192
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2005"	"2005"	248
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2006"	"2006"	247
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2007"	"2007"	214
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2008"	"2008"	236
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2009"	"2009"	289
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2010"	"2010"	299
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2011"	"2011"	315
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"1999"	"1999"	45
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2000"	"2000"	32
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2003"	"2003"	52
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2004"	"2004"	37
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2005"	"2005"	51
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2006"	"2006"	59
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2007"	"2007"	64
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2008"	"2008"	46
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2009"	"2009"	49
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2010"	"2010"	48
+	"Melanoma of the Skin"	"25010"	"District of Columbia"	"11"	"2011"	"2011"	57
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"1999"	"1999"	3186
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2000"	"2000"	3683
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2001"	"2001"	3553
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2002"	"2002"	3697
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2003"	"2003"	3556
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2004"	"2004"	3708
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2005"	"2005"	4086
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2006"	"2006"	3871
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2007"	"2007"	4422
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2008"	"2008"	4417
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2009"	"2009"	4357
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2010"	"2010"	4119
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2011"	"2011"	5131
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"1999"	"1999"	992
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2000"	"2000"	1258
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2001"	"2001"	1409
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2002"	"2002"	1518
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2003"	"2003"	1622
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2004"	"2004"	1661
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2005"	"2005"	1812
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2006"	"2006"	1816
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2007"	"2007"	1865
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2008"	"2008"	1939
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2009"	"2009"	2014
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2010"	"2010"	2126
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2011"	"2011"	2203
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"1999"	"1999"	180
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2000"	"2000"	213
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2001"	"2001"	197
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2002"	"2002"	226
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2003"	"2003"	210
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2004"	"2004"	289
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2005"	"2005"	308
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2006"	"2006"	301
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2007"	"2007"	254
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2008"	"2008"	302
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2009"	"2009"	315
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2010"	"2010"	348
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2011"	"2011"	313
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"1999"	"1999"	236
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2000"	"2000"	244
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2001"	"2001"	246
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2002"	"2002"	267
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2003"	"2003"	314
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2004"	"2004"	353
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2005"	"2005"	366
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2006"	"2006"	328
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2007"	"2007"	357
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2008"	"2008"	325
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2009"	"2009"	407
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2010"	"2010"	390
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2011"	"2011"	443
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"1999"	"1999"	1412
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2000"	"2000"	1518
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2001"	"2001"	1625
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2002"	"2002"	1658
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2003"	"2003"	1691
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2004"	"2004"	1829
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2005"	"2005"	2036
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2006"	"2006"	2057
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2007"	"2007"	2180
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2008"	"2008"	2318
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2009"	"2009"	2345
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2010"	"2010"	2283
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2011"	"2011"	2410
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"1999"	"1999"	778
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2000"	"2000"	890
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2001"	"2001"	1029
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2002"	"2002"	1048
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2003"	"2003"	1081
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2004"	"2004"	992
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2005"	"2005"	1082
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2006"	"2006"	1130
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2007"	"2007"	1160
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2008"	"2008"	1179
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2009"	"2009"	1238
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2010"	"2010"	1294
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2011"	"2011"	1114
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"1999"	"1999"	532
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2000"	"2000"	541
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2001"	"2001"	607
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2002"	"2002"	582
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2003"	"2003"	517
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2004"	"2004"	559
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2005"	"2005"	600
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2006"	"2006"	675
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2007"	"2007"	655
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2008"	"2008"	708
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2009"	"2009"	768
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2010"	"2010"	855
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2011"	"2011"	802
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"1999"	"1999"	458
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2000"	"2000"	443
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2001"	"2001"	468
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2002"	"2002"	509
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2003"	"2003"	522
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2004"	"2004"	533
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2005"	"2005"	557
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2006"	"2006"	638
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2007"	"2007"	625
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2008"	"2008"	694
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2009"	"2009"	704
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2010"	"2010"	695
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2011"	"2011"	707
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"1999"	"1999"	804
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2000"	"2000"	828
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2001"	"2001"	915
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2002"	"2002"	799
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2003"	"2003"	849
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2004"	"2004"	925
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2005"	"2005"	961
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2006"	"2006"	970
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2007"	"2007"	1094
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2008"	"2008"	1063
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2009"	"2009"	1106
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2010"	"2010"	1134
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2011"	"2011"	1098
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"1999"	"1999"	412
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2000"	"2000"	436
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2001"	"2001"	474
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2002"	"2002"	479
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2003"	"2003"	460
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2004"	"2004"	561
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2005"	"2005"	622
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2006"	"2006"	606
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2007"	"2007"	600
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2008"	"2008"	604
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2009"	"2009"	735
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2010"	"2010"	713
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2011"	"2011"	681
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"1999"	"1999"	255
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2000"	"2000"	244
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2001"	"2001"	291
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2002"	"2002"	306
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2003"	"2003"	325
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2004"	"2004"	333
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2005"	"2005"	353
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2006"	"2006"	333
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2007"	"2007"	353
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2008"	"2008"	336
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2009"	"2009"	379
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2010"	"2010"	355
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2011"	"2011"	360
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"1999"	"1999"	912
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2000"	"2000"	909
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2002"	"2002"	1182
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2003"	"2003"	1065
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2004"	"2004"	1038
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2005"	"2005"	1209
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2006"	"2006"	1174
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2007"	"2007"	1293
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2008"	"2008"	1274
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2009"	"2009"	1209
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2010"	"2010"	1332
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2011"	"2011"	1291
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"1999"	"1999"	1089
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2000"	"2000"	1146
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2001"	"2001"	1430
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2002"	"2002"	1527
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2003"	"2003"	1420
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2004"	"2004"	1565
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2005"	"2005"	1575
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2006"	"2006"	1782
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2007"	"2007"	1646
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2008"	"2008"	1639
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2009"	"2009"	1582
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2010"	"2010"	1545
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2011"	"2011"	1511
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"1999"	"1999"	1827
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2000"	"2000"	1786
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2001"	"2001"	1876
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2002"	"2002"	1888
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2003"	"2003"	1944
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2004"	"2004"	1771
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2005"	"2005"	1982
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2006"	"2006"	1798
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2007"	"2007"	2021
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2008"	"2008"	2208
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2009"	"2009"	2129
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2010"	"2010"	1971
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2011"	"2011"	2030
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"1999"	"1999"	816
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2000"	"2000"	877
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2001"	"2001"	926
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2002"	"2002"	849
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2003"	"2003"	907
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2004"	"2004"	972
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2005"	"2005"	1006
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2006"	"2006"	1155
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2007"	"2007"	1278
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2008"	"2008"	1326
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2009"	"2009"	1469
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2010"	"2010"	1589
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2011"	"2011"	1570
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2003"	"2003"	359
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2004"	"2004"	398
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2005"	"2005"	429
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2006"	"2006"	440
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2007"	"2007"	451
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2008"	"2008"	507
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2009"	"2009"	529
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2010"	"2010"	509
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2011"	"2011"	584
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"1999"	"1999"	595
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2000"	"2000"	661
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2001"	"2001"	719
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2002"	"2002"	744
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2003"	"2003"	770
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2004"	"2004"	1006
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2005"	"2005"	1088
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2006"	"2006"	1086
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2007"	"2007"	1118
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2008"	"2008"	1138
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2009"	"2009"	1215
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2010"	"2010"	1088
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2011"	"2011"	1169
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"1999"	"1999"	110
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2000"	"2000"	185
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2001"	"2001"	166
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2002"	"2002"	161
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2003"	"2003"	170
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2004"	"2004"	159
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2005"	"2005"	192
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2006"	"2006"	205
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2007"	"2007"	232
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2008"	"2008"	228
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2009"	"2009"	238
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2010"	"2010"	288
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2011"	"2011"	281
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"1999"	"1999"	252
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2000"	"2000"	245
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2001"	"2001"	265
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2002"	"2002"	304
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2003"	"2003"	276
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2004"	"2004"	316
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2005"	"2005"	339
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2006"	"2006"	320
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2007"	"2007"	321
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2008"	"2008"	343
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2009"	"2009"	351
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2010"	"2010"	343
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2011"	"2011"	378
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2000"	"2000"	331
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2001"	"2001"	361
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2002"	"2002"	370
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2003"	"2003"	423
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2004"	"2004"	378
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2005"	"2005"	406
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2006"	"2006"	343
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2007"	"2007"	333
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2008"	"2008"	375
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2009"	"2009"	432
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2010"	"2010"	408
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"1999"	"1999"	261
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2000"	"2000"	286
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2001"	"2001"	301
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2002"	"2002"	380
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2003"	"2003"	403
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2004"	"2004"	385
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2005"	"2005"	456
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2006"	"2006"	403
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2007"	"2007"	382
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2008"	"2008"	407
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2009"	"2009"	372
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2010"	"2010"	424
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2011"	"2011"	389
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"1999"	"1999"	1315
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2000"	"2000"	1384
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2001"	"2001"	1644
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2002"	"2002"	1867
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2003"	"2003"	1720
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2004"	"2004"	1907
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2005"	"2005"	1921
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2006"	"2006"	2023
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2007"	"2007"	2098
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2008"	"2008"	2056
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2009"	"2009"	2020
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2010"	"2010"	2139
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2011"	"2011"	2055
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"1999"	"1999"	255
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2000"	"2000"	321
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2001"	"2001"	348
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2002"	"2002"	320
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2003"	"2003"	322
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2004"	"2004"	328
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2005"	"2005"	368
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2006"	"2006"	349
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2007"	"2007"	327
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2008"	"2008"	467
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2009"	"2009"	408
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2010"	"2010"	436
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2011"	"2011"	340
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"1999"	"1999"	1916
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2000"	"2000"	2182
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2001"	"2001"	2454
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2002"	"2002"	2585
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2003"	"2003"	2421
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2004"	"2004"	2943
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2005"	"2005"	3213
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2006"	"2006"	3580
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2007"	"2007"	3272
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2008"	"2008"	3550
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2009"	"2009"	3767
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2010"	"2010"	3512
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2011"	"2011"	3975
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"1999"	"1999"	1152
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2000"	"2000"	1280
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2001"	"2001"	1127
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2002"	"2002"	1352
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2003"	"2003"	1422
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2004"	"2004"	1548
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2005"	"2005"	1808
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2006"	"2006"	1768
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2007"	"2007"	1975
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2008"	"2008"	2164
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2009"	"2009"	2393
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2010"	"2010"	2203
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2011"	"2011"	2227
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"1999"	"1999"	64
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2000"	"2000"	48
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2002"	"2002"	71
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2003"	"2003"	91
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2004"	"2004"	96
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2005"	"2005"	99
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2006"	"2006"	112
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2007"	"2007"	140
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2008"	"2008"	128
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2009"	"2009"	157
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2010"	"2010"	164
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2011"	"2011"	171
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"1999"	"1999"	1564
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2000"	"2000"	1598
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2001"	"2001"	1860
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2002"	"2002"	1988
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2003"	"2003"	1936
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2004"	"2004"	2111
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2005"	"2005"	2502
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2006"	"2006"	2339
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2007"	"2007"	2394
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2008"	"2008"	2481
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2009"	"2009"	2522
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2010"	"2010"	2357
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2011"	"2011"	2486
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"1999"	"1999"	355
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2000"	"2000"	415
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2001"	"2001"	457
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2002"	"2002"	529
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2003"	"2003"	632
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2004"	"2004"	668
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2005"	"2005"	631
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2006"	"2006"	686
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2007"	"2007"	866
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2008"	"2008"	669
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2009"	"2009"	715
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2010"	"2010"	615
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2011"	"2011"	651
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"1999"	"1999"	759
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2000"	"2000"	825
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2001"	"2001"	861
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2002"	"2002"	866
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2003"	"2003"	811
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2004"	"2004"	990
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2005"	"2005"	1053
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2006"	"2006"	978
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2007"	"2007"	1020
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2008"	"2008"	1199
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2009"	"2009"	1037
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2010"	"2010"	1150
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2011"	"2011"	1172
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"1999"	"1999"	1831
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2000"	"2000"	2008
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2001"	"2001"	2236
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2002"	"2002"	2336
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2003"	"2003"	2456
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2004"	"2004"	2422
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2005"	"2005"	2552
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2006"	"2006"	2565
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2007"	"2007"	2468
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2008"	"2008"	2648
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2009"	"2009"	2978
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2010"	"2010"	3111
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2011"	"2011"	3194
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"1999"	"1999"	206
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2000"	"2000"	235
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2001"	"2001"	258
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2002"	"2002"	301
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2003"	"2003"	279
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2004"	"2004"	255
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2005"	"2005"	266
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2006"	"2006"	280
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2007"	"2007"	229
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2008"	"2008"	245
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2009"	"2009"	241
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2010"	"2010"	268
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2011"	"2011"	228
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"1999"	"1999"	684
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2000"	"2000"	632
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2001"	"2001"	663
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2002"	"2002"	820
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2003"	"2003"	865
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2004"	"2004"	908
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2005"	"2005"	1010
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2006"	"2006"	1008
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2007"	"2007"	1073
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2008"	"2008"	1114
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2009"	"2009"	1190
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2010"	"2010"	1121
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2011"	"2011"	1012
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2001"	"2001"	98
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2002"	"2002"	149
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2003"	"2003"	116
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2004"	"2004"	127
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2005"	"2005"	113
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2006"	"2006"	136
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2007"	"2007"	121
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2008"	"2008"	118
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2009"	"2009"	142
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2010"	"2010"	167
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2011"	"2011"	186
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2004"	"2004"	1163
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2005"	"2005"	1260
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2006"	"2006"	1309
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2007"	"2007"	1378
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2008"	"2008"	1260
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2009"	"2009"	1576
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2010"	"2010"	1494
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2011"	"2011"	1416
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"1999"	"1999"	1994
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2000"	"2000"	2527
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2001"	"2001"	2749
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2002"	"2002"	2815
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2003"	"2003"	2878
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2004"	"2004"	2921
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2005"	"2005"	2807
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2006"	"2006"	2863
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2007"	"2007"	3065
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2008"	"2008"	3094
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2009"	"2009"	3068
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2010"	"2010"	2883
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2011"	"2011"	2951
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"1999"	"1999"	380
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2000"	"2000"	356
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2001"	"2001"	381
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2002"	"2002"	384
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2003"	"2003"	447
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2004"	"2004"	500
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2005"	"2005"	562
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2006"	"2006"	615
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2007"	"2007"	624
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2008"	"2008"	646
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2009"	"2009"	675
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2010"	"2010"	768
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2011"	"2011"	790
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"1999"	"1999"	179
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2000"	"2000"	174
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2001"	"2001"	145
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2002"	"2002"	169
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2003"	"2003"	216
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2004"	"2004"	208
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2005"	"2005"	224
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2006"	"2006"	195
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2007"	"2007"	200
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2008"	"2008"	185
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2009"	"2009"	241
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2010"	"2010"	206
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2011"	"2011"	215
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2003"	"2003"	1199
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2004"	"2004"	1310
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2005"	"2005"	1610
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2006"	"2006"	1631
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2007"	"2007"	1815
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2008"	"2008"	1649
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2009"	"2009"	1525
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2010"	"2010"	1544
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2011"	"2011"	1530
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"1999"	"1999"	1236
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2000"	"2000"	1354
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2001"	"2001"	1338
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2002"	"2002"	1336
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2003"	"2003"	1430
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2004"	"2004"	1630
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2005"	"2005"	1647
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2006"	"2006"	1635
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2007"	"2007"	1614
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2008"	"2008"	1732
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2009"	"2009"	1769
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2010"	"2010"	1869
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2011"	"2011"	1858
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"1999"	"1999"	302
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2000"	"2000"	315
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2001"	"2001"	341
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2002"	"2002"	340
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2003"	"2003"	326
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2004"	"2004"	406
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2005"	"2005"	380
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2006"	"2006"	377
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2007"	"2007"	404
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2008"	"2008"	426
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2009"	"2009"	476
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2010"	"2010"	457
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2011"	"2011"	479
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"1999"	"1999"	661
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2000"	"2000"	796
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2001"	"2001"	850
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2002"	"2002"	848
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2003"	"2003"	828
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2004"	"2004"	861
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2005"	"2005"	965
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2006"	"2006"	985
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2007"	"2007"	1054
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2008"	"2008"	1110
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2009"	"2009"	1196
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2010"	"2010"	1346
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2011"	"2011"	1263
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"1999"	"1999"	96
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2000"	"2000"	97
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2001"	"2001"	114
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2002"	"2002"	78
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2003"	"2003"	95
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2004"	"2004"	113
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2005"	"2005"	117
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2006"	"2006"	99
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2007"	"2007"	98
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2008"	"2008"	128
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2009"	"2009"	121
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2010"	"2010"	170
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2011"	"2011"	125
+"---"
+"Dataset: United States Cancer Statistics, 1999-2011 Incidence"
+"Query Parameters:"
+"Title:"
+"Age Group: All"
+"Cancer Sites: Melanoma of the Skin"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"State: All"
+"Year: All, 1999 to 2011"
+"Group By: Cancer Sites, State, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2011.html for more information."
+"---"
+"Query Date: Mar 28, 2015 5:03:32 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2011 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2014. Accessed at"
+"http://wonder.cdc.gov/cancer-v2011.html on Mar 28, 2015 5:03:32 PM"
+"---"
+Messages:
+"1. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. These states are missing data for the indicated year: Alabama 1999; Arkansas 1999-2000, 2002; District of Columbia 2001-2002;"
+"Maryland 2001; Mississippi 1999-2002; Nevada 1999, 2011; North Dakota 2001; South Dakota 1999-2000; Tennessee 1999-2003;"
+"Virginia 1999-2002."
+"3. Data are suppressed if fewer than 16 cases are reported in the specific category. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Georgia, Illinois,"
+"Kansas, Kentucky, Missouri, New Jersey, New York, and South Carolina; 2) Asian or Pacific Islander data are suppressed at the"
+"state level for Delaware, Illinois, Kansas, Kentucky, Missouri, and South Carolina; 3) Hispanic data are supressed at the state"
+"level for Delaware, Kentucky, Massachusetts, Missouri, Pennsylvania, and South Carolina. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2011.html#Confidentiality."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
